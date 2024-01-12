@@ -7,8 +7,8 @@ Anicare is a comprehensive web application platform designed to serve as an inte
 
 Anicare is developed by the InfoTeam, a dedicated group of individuals with diverse skills and expertise. Meet the team:
 
-- **Razaq Farhan (Hacker):**
+- **Razaq Farhan (Hacker)**
 
-- **Muhammad Zibran Santosa (Hipster):**
+- **Muhammad Zibran Santosa (Hipster)**
 
-- **Cheisya Valda Wibawaningrum (Hustler):**
+- **Cheisya Valda Wibawaningrum (Hustler)**
